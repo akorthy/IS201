@@ -1,6 +1,10 @@
 body{
     background-color: navajowhite;
 }
+
+.resumebody {
+    background-color: white;
+}
 .sub {
     font-weight: lighter;
 }
@@ -30,6 +34,29 @@ a:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 50%;
 
+}
+
+.green{
+    color: green;
+    border: 3px greenyellow;
+    font-size: smaller;
+    font-weight: lighter;
+}
+
+.resumefooter {
+    background-color: navajowhite;
+}
+
+.bullet {
+    color: pink;
+}
+.blockcolor {
+    background-color: palevioletred;
+    
+}
+
+a:hover {
+    color: palevioletred;
 }

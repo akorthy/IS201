@@ -1,0 +1,70 @@
+body{
+    background-color: pink ;
+    font-family:sans-serif;
+}
+
+.common {
+    background-color:pink;
+    border: solid 5px, black;
+    position: absolute;
+}
+.navigation {
+    top: 0px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+.subhead {
+    float: right;
+}
+.left {
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top: 40px;
+}
+.tableau {
+    top: 110px;
+    bottom: 500px;
+    left: 300px;
+    right: 300px;
+    padding: 6px;
+}
+
+.right { 
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 64px;
+    padding: 2px;
+}
+
+.footer {
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 50px;
+    position: fixed;
+    font-size: small;
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+a{
+    color: black;
+}
+
+.caption {
+    font-size: small;
+    color: grey;
+    font-style: oblique;
+}
+
+.name {
+    font-weight: bold;
+    color: darkmagenta;
+}

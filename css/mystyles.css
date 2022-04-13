@@ -1,0 +1,35 @@
+body{
+    background-color: navajowhite;
+}
+.sub {
+    font-weight: lighter;
+}
+.font {
+    font-family:cursive
+}
+
+.contact {
+    color: darkred;
+}
+
+.icon:hover {
+    color: whitesmoke
+}
+
+
+a:hover {
+    color: hotpink;
+    text-decoration: underline
+}
+
+.connect {
+    text-align: center;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+
+}
